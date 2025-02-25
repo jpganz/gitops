@@ -1,3 +1,0 @@
-secret:
-  data:
-    secretFileContent: "my-real-dev-secret-content-123"
